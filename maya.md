@@ -1,12 +1,12 @@
 ```
-                  _____
-                 _|[]_|_
-               _/_/=|_\_\_
-             _/_ /==| _\ _\_
-           _/__ /===|_ _\ __\_
-         _/_ _ /====| ___\  __\_
-       _/ __ _/=====|_ ___\ ___ \_
-     _/ ___ _/======| ____ \_  __ \_
+//                   _____
+//                  _|[]_|_
+//                _/_/=|_\_\_
+//              _/_ /==| _\ _\_
+//            _/__ /===|_ _\ __\_
+//          _/_ _ /====| ___\  __\_
+//        _/ __ _/=====|_ ___\ ___ \_
+//      _/ ___ _/======| ____ \_  __ \_
 
 
 // This code was written by the Mayans, long before the Europeans arrived. It shows a benchmark on how the respondent did compared to others. Nobody knows how it works but
